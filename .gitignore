@@ -2,3 +2,4 @@ config.json
 config.ts
 .env
 node_modules
+build
